@@ -1,5 +1,5 @@
 # Parallax CSS
-  Fictitious project of an institutional web site called Museo Nacional.
+One page design with parallax scrolling effect.
  
 ### OBJECTIVE
 >Exercise knowledge acquired during the study of HTML, CSS.
