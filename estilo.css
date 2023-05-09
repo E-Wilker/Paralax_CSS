@@ -66,3 +66,27 @@ p {
     background-image: url(img/imagem4.jpg);
 }
 
+.wilker {
+    color: #fff;
+    text-decoration: none;
+
+}
+
+.logo {
+    position: absolute;
+    left: 0;
+    top: 70%;
+    width: 100%;
+    text-align: center;
+}
+
+a:link, a:active, a:visited {
+    color: white;
+    text-decoration: none;
+    
+ }
+ 
+ a:hover {
+     color: rgb(255, 136, 0); 
+    
+ }
